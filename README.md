@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgthunder&label=Profile%20views&color=0e75b6&style=flat" alt="bgthunder" /> </p>
 
-- 🔭 I’m currently working on [website-tharkavi](https://github.com/bgthunder/website-tharkavi.git)
+- 🔭 I’m currently working on [website-selectalaptop](https://github.com/bgthunder/website-selectalaptop.git)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **GIT & GITHUB**
 
 - 💬 Ask me about **HTML, CSS, PYTHON**
 
